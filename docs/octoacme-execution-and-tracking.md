@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Engineer** owns test plans, automated regression suites, and quality gate sign-off (see [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full QA role definition)
+- Quality gates must be met before moving items to Done — refer to the Definition of Done in [`octoacme-project-planning.md`](octoacme-project-planning.md) and the ownership matrix in [`octoacme-project-roles-raci.md`](octoacme-project-roles-raci.md)
 
 ## Reporting & Metrics
 - Track velocity and burndown

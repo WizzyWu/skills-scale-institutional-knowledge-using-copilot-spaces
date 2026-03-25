@@ -35,6 +35,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Confirm team roles and ownership using the [RACI matrix](octoacme-project-roles-raci.md)
 
 ## Decision Gate
 Move to planning when:

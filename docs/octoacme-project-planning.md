@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Assign artifact ownership using the [RACI matrix](octoacme-project-roles-raci.md)
 
 ## Backlog Item Template
 - Title:
